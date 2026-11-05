@@ -1,18 +1,5 @@
 # Customer Retention & Returns Analytics: Online Retail
 
-## Introduction
-
-This project explores a full data pipeline using **Python**, **SQL**, and **Power BI**, starting from raw data and ending with an interactive dashboard.  
-The goal was to generate insights on customer behavior, sales performance, and product returns using a combination of data analytics and data visualization techniques.
-
-### Why these tools?
-
-- **Python**: for data extraction, cleaning, and transformation.
-- **SQL**: for querying, and preparing structured datasets.
-- **Power BI**: for building a dynamic interactive dashboard to share insights.
-
-While all data cleaning and transformation could have been done directly in Power BI, I chose to use Python and SQL (on Jupyter sheets) to integrate different tools and techniques. This approach showcases a more complete and flexible data workflow.
-
 The **dataset** used in this project is the [Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail) from the UCI Machine Learning Repository.
 This dataset is comprised of **one excel file containing two sheets**: Year 2009-2010 and Year 2010-2011.
 ![image](https://github.com/user-attachments/assets/6a8d4ee4-9a59-4f39-ba62-9b3113f91423)
