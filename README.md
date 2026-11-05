@@ -1,5 +1,4 @@
-# Online-Retail-Data-Analytics-Project-with-Python-SQL-and-Power-BI
-
+# Customer Retention & Returns Analytics: Online Retail
 
 ## Introduction
 
